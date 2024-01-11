@@ -16,7 +16,7 @@
  * cursor_interface.h
  *
  * IDENTIFICATION
- * 	  src/gitee.com/opengauss/openGauss-connector-go-pq/cursor_interface.h
+ * 	  src/github.com/trymesoft/openGauss-connector-go-pq/cursor_interface.h
  *
  * -------------------------------------------------------------------------
  */

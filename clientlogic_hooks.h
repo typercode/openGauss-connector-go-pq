@@ -16,7 +16,7 @@
  * clientlogic_hooks.h
  *
  * IDENTIFICATION
- * 	  src/gitee.com/opengauss/openGauss-connector-go-pq/clientlogic_hooks.h
+ * 	  src/github.com/trymesoft/openGauss-connector-go-pq/clientlogic_hooks.h
  *
  * -------------------------------------------------------------------------
  */

@@ -4,7 +4,7 @@ fork from [github/lib/pq](https://github.com/lib/pq)
 
 ## Install
 
-	go get gitee.com/opengauss/openGauss-connector-go-pq
+	go get github.com/trymesoft/openGauss-connector-go-pq
 
 ## What's the difference of libpq for openGauss
 When using original libpq go driver to access openGauss, the following error will be reported.
@@ -67,7 +67,7 @@ user=gaussdb password=secret host=foo,bar,baz port=5432,5432,5433 dbname=mydb ss
 import (
 	"database/sql"
 
-	_ "gitee.com/opengauss/openGauss-connector-go-pq"
+	_ "github.com/trymesoft/openGauss-connector-go-pq"
 )
 
 func main() {

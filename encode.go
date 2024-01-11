@@ -15,7 +15,7 @@ import (
 	"time"
 	"unsafe"
 
-	"gitee.com/opengauss/openGauss-connector-go-pq/oid"
+	"github.com/trymesoft/openGauss-connector-go-pq/oid"
 )
 
 var time2400Regex = regexp.MustCompile(`^(24:00(?::00(?:\.0+)?)?)(?:[Z+-].*)?$`)

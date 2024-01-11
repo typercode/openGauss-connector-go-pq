@@ -16,7 +16,7 @@
  * pgconn.h
  *
  * IDENTIFICATION
- * 	  src/gitee.com/opengauss/openGauss-connector-go-pq/pgconn.h
+ * 	  src/github.com/trymesoft/openGauss-connector-go-pq/pgconn.h
  *
  * -------------------------------------------------------------------------
  */

@@ -1,3 +1,4 @@
+//go:build ignore
 // +build ignore
 
 // Generate the table of OID values
@@ -12,7 +13,7 @@ import (
 	"os/exec"
 	"strings"
 
-	_ "gitee.com/opengauss/openGauss-connector-go-pq"
+	_ "github.com/trymesoft/openGauss-connector-go-pq"
 )
 
 // OID represent a postgres Object Identifier Type.

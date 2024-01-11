@@ -16,7 +16,7 @@
  * lib_funcs_manager.h
  *
  * IDENTIFICATION
- * 	  src/gitee.com/opengauss/openGauss-connector-go-pq/lib_funcs_manager.h
+ * 	  src/github.com/trymesoft/openGauss-connector-go-pq/lib_funcs_manager.h
  *
  * -------------------------------------------------------------------------
  */

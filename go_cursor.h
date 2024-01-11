@@ -16,7 +16,7 @@
  * go_cursor.h
  *
  * IDENTIFICATION
- * 	  src/gitee.com/opengauss/openGauss-connector-go-pq/go_cursor.h
+ * 	  src/github.com/trymesoft/openGauss-connector-go-pq/go_cursor.h
  *
  * -------------------------------------------------------------------------
  */

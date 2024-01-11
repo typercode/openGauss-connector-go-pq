@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"time"
 
-	"gitee.com/opengauss/openGauss-connector-go-pq/oid"
+	"github.com/trymesoft/openGauss-connector-go-pq/oid"
 )
 
 const headerSize = 4
