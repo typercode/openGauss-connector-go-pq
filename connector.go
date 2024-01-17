@@ -50,7 +50,7 @@ func init() {
 		}
 	}
 	sql.Register("opengauss", &Driver{})
-	sql.Register("postgres", &Driver{})
+	// sql.Register("postgres", &Driver{})
 	sql.Register("postgresql", &Driver{})
 	sql.Register("mogdb", &Driver{})
 }
